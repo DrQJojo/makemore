@@ -1,6 +1,6 @@
 # makemore
 
-This project completely followed the steps by awesome Andrej Karpathy's awesome youtube video series Building makemore.
+This project completely followed the steps by awesome Andrej Karpathy's awesome youtube video series Building makemore, a character-level name prediction model.
 Here are the links:
   part1 https://www.youtube.com/watch?v=PaCmpygFfXo
   part2 https://www.youtube.com/watch?v=TCH_1BHY58I
