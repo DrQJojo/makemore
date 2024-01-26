@@ -16,3 +16,8 @@ Here are the links:
 
 I add some notes while following Andrej step by step.
 I think this is a really good practice for me, a rookie to machine learning, deep learning, pytorch, natural language processing, to get some hand-on experience and some insight of how the neural net works.
+
+SimpleGenerator.ipynb and .py build up a decoder-only transformer for a Shakespear style text generator, which follow this video: https://www.youtube.com/watch?v=kCc8FmEb1nY
+
+
+
